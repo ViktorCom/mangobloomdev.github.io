@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+
+
+Host: https://mangobloomdev.com/
+Sitemap: https://mangobloomdev.com/sitemap.xml
